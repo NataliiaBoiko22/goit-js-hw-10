@@ -63,3 +63,4 @@ function renderOneCountry(countries) {
     .join('');
   countryInfo.innerHTML = countryProperties;
 }
+console.log('Hello');
